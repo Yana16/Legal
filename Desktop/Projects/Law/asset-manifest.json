@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Legal/static/css/main.219fbf5f.css",
+    "main.js": "/Legal/static/js/main.4a149c80.js",
+    "static/media/Legal2.jpg": "/Legal/static/media/Legal2.ce15145ecf40f85c0b73.jpg",
+    "static/media/Legal1.jpg": "/Legal/static/media/Legal1.3ac45b5b1a0ba01627c9.jpg",
+    "static/media/Legal3.jpg": "/Legal/static/media/Legal3.c9856156ba941d3e18ab.jpg",
+    "static/media/Osijtschukmin.jpg": "/Legal/static/media/Osijtschukmin.6e2221915c3a6a4469f5.jpg",
+    "static/media/Wolf13.png": "/Legal/static/media/Wolf13.ac49e1d044b0c597d8c9.png",
+    "static/media/Tiger13.png": "/Legal/static/media/Tiger13.4f704a7ed17eb9bb3604.png",
+    "static/media/Pantera13.png": "/Legal/static/media/Pantera13.0f343304ba76afa842e1.png",
+    "static/media/Bear13.png": "/Legal/static/media/Bear13.15ae0a2b215e72c7ecf9.png",
+    "static/media/Lion13.png": "/Legal/static/media/Lion13.d30541f12fafb2052004.png",
+    "static/media/Leopard14.png": "/Legal/static/media/Leopard14.d0bc3e808e2d37d059a8.png",
+    "static/media/Legal4.jpg": "/Legal/static/media/Legal4.611b46af1289c97af7eb.jpg",
+    "static/media/Logo.png": "/Legal/static/media/Logo.d28e78b78df6f91ce927.png",
+    "static/media/Legal5.jpg": "/Legal/static/media/Legal5.44be65cac0d73a3fc711.jpg",
+    "index.html": "/Legal/index.html",
+    "main.219fbf5f.css.map": "/Legal/static/css/main.219fbf5f.css.map",
+    "main.4a149c80.js.map": "/Legal/static/js/main.4a149c80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219fbf5f.css",
+    "static/js/main.4a149c80.js"
+  ]
+}
